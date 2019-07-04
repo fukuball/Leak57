@@ -184,7 +184,7 @@ This is trivial, this solve the N+1 query, get all the data first, and Laravel u
 
 #### Case 4
 
-This case demo a common case when we write OOP, we use use some method in model, and model get the necessary data.
+This case demo a common case when we write OOP, we use use some method in model, and model will get the necessary data to proceed the work.
 
 ```
 $ php artisan leak_test leak_weird
