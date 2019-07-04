@@ -241,7 +241,7 @@ And we can see the memory goes up and never come back:
 ...
 ```
 
-This is common to write some method for "Encapsulation", we don't need to know the detail, just to call the method to do what we want. But in this case we got memory leak.
+This is common to write some method for "Encapsulation", we don't need to know the detail, just call the method to do what we want. But in this case we got memory leak.
 
 #### Case 5
 
