@@ -46,7 +46,7 @@ foreach ($albums as $album) {
 }
 ```
 
-And we can see the memory goes up and never go back:
+And we can see the memory goes up and never come back:
 
 ```
 ...
@@ -207,7 +207,7 @@ public function processSomethingToReturn()
 }
 ```
 
-And we can see the memory goes up and never go back:
+And we can see the memory goes up and never come back:
 
 ```
 ...
