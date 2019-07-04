@@ -77,7 +77,7 @@ And we can see the memory goes up and never go back:
 ...
 ```
 
-I know there is N+1 query in it, but simple loop with simple qurey should not case memory leak, it happend in Laravel.
+I know there is N+1 query in it, but simple loop with simple qurey should not cause memory leak, it happend in Laravel.
 
 #### Case 2
 
